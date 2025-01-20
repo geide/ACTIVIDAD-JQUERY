@@ -24,10 +24,11 @@ ACTIVIDAD-JQUERY
 
 ----------INSTRUCCIONES DE USO-------------------------------------
 
-1. En la carpeta del proyecto, abrir el archivo index.html en su navegador, se recomienda utilizar la extensión Live Server. 
-2. Crear una publicación, ingresar la información en título y descripción en el formulario "Crear Nuevo Post"
+1. Clone la carpeta del proyecto en su ordenador.
+2. En la carpeta del proyecto, abrir el archivo index.html en su navegador, se recomienda utilizar la extensión Live Server. 
+3. Crear una publicación, ingresar la información en título y descripción en el formulario "Crear Nuevo Post"
 La publicación aparecerá en la sección "Publicaciones"
-3. Editar o eliminar una publicación, haciendo clic en el botón "Editar" del post deseado este permitirá modificar los campos mostrados y guardar los cambios. El botón "Eliminar" realizará la tarea establecida. 
+4. Editar o eliminar una publicación, haciendo clic en el botón "Editar" del post deseado este permitirá modificar los campos mostrados y guardar los cambios. El botón "Eliminar" realizará la tarea establecida. 
 3. Agregar comentarios, al realizar una publicación debajo encontramos el botón "Comentar", este permite escribir un comentario en el campo de texto.
 4. Editar o eliminar comentarios, junto al comentario encontraremos los botones para "Editar" y "Eliminar", se realizn los cambios y guarda o eliminar.
 5. Filtrar publicaciones, en el campo "Filtrar por palabra clave en el título", para buscar publicaciones que coincidan
