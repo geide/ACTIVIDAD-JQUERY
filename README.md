@@ -1,6 +1,6 @@
 ACTIVIDAD: RED SOCIAL
 
-Grupo:  Germán Alvarado Geide / 
+Grupo:  German Alvarado Geide / 
 	       Muñiz Pincay Esteban
 
 --------------PROPÓSITO--------------------------------------------------
