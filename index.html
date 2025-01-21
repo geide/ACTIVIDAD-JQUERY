@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestión de Posts y Comentarios</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script type="module" src="js/main.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Red Social - Posts y Comentarios</h1>
+    </header>
+
+    <main>
+        <!-- Crear nuevo post -->
+        <section id="post-creation" class="card">
+            <h2>Crear Nuevo Post</h2>
+            <form id="create-post-form">
+                <input type="text" id="post-title" placeholder="Título del post" required>
+                <textarea id="post-description" placeholder="Descripción del post" required></textarea>
+                <button type="submit" class="btn">Crear Post</button>
+            </form>
+        </section>
+
+        <!-- Filtro y listado de posts -->
+        <section id="post-list" class="card">
+            <h2>Publicaciones</h2>
+            <input type="text" id="filter-posts" placeholder="Filtrar por palabra clave en el título">
+            <div id="posts-container"></div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Red Social Ficticia</p>
+    </footer>
+</body>
+</html>
