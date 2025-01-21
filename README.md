@@ -1,7 +1,7 @@
 ACTIVIDAD: RED SOCIAL
 
 Grupo:  Germán Alvarado Geide / 
-	       Muñiz Pincay esteban
+	       Muñiz Pincay Esteban
 
 --------------PROPÓSITO--------------------------------------------------
 
