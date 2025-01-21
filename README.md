@@ -1,5 +1,8 @@
 ACTIVIDAD: RED SOCIAL
 
+Grupo:  Germán Alvarado Geide
+	       Muñiz Pincay esteban
+
 --------------PROPÓSITO--------------------------------------------------
 
 Este proyecto tiene como objetivo desarrollar una aplicación web interactiva que permita a los usuarios gestionar publicaciones y comentarios en una red social ficticia. A través del uso de jQuery, funciones arrow de JavaScript y diseño modular, la aplicación busca poner en práctica conocimientos avanzados en manipulación del DOM, manejo de eventos y diseño responsivo con CSS.
