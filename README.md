@@ -29,5 +29,6 @@ ACTIVIDAD-JQUERY
 La publicación aparecerá en la sección "Publicaciones"
 3. Editar o eliminar una publicación, haciendo clic en el botón "Editar" del post deseado este permitirá modificar los campos mostrados y guardar los cambios. El botón "Eliminar" realizará la tarea establecida. 
 3. Agregar comentarios, al realizar una publicación debajo encontramos el botón "Comentar", este permite escribir un comentario en el campo de texto.
-4. Editar o eliminar comentarios, junto al comentario encontraremos los botones para "Editar" y "Eliminar", se realizn los cambios y guarda o eliminar.
-5. Filtrar publicaciones, en el campo "Filtrar por palabra clave en el título", para buscar publicaciones que coincidan
+4. Editar o eliminar comentarios, junto al comentario encontraremos los botones para "Editar" y "Eliminar", se realizan los cambios y guarda o eliminar.
+5. Para filtrar publicaciones, escribir palabras clave en el campo "Filtrar por palabra clave en el título", para buscar publicaciones que coincidan con estas palabras
+   
